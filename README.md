@@ -19,7 +19,7 @@ Development: Git, Linux, HTML/CSS
 
 📌 Featured work
 - Seismology — Python tools for scientific data processing, conversion, and visualization
-- Flags Game — Application project with a SQL database
+- Flags Game — Application project involving relational database design and XML-based data storag
 - Low-level programming & systems projects — C, memory management, data structures, Linux and shell programming
 
 I'm currently building a stronger portfolio around Python, SQL, databases, and data analysis.
